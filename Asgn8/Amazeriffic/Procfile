@@ -1,0 +1,3 @@
+static:../Amazeriffic/client/python -m SimpleHTTPServer
+app:node ../Amazeriffic/client/javascripts/app.js
+server: node ../Amazeriffic/server.js
